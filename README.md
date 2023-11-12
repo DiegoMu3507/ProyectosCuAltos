@@ -11,3 +11,4 @@ Soy un fanático de la programación y espero desarrollar proyectos que relacion
 
 **Intereses y pasatiempos:** 
 Como mencioné anteriormente, soy un gran fanático del baloncesto. Me gusta ver partidos de la NBA y jugar en mi tiempo libre.
+🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀
