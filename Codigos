@@ -1,1 +1,23 @@
+#include <iostream>
+#include <stdio.h>
+using namespace std;
+int main (){
+    int  a,b,c,d,z,j,k;
+
+    cout <<"Dime tu primer calificación"<<endl;
+    cin >> a;
+    cout <<"Dime tu segunda calificación"<<endl;
+    cin >> b;
+    cout <<"Dime tu tercera calificación"<<endl;
+    cin >> c;
+    z= a+b+c;
+    d=z/3;
+    if (d>=95) {
+       k=100-d;
+       j=d+k;
+       cout<< "Tu calificacion es de:"<<endl <<j<<endl;
+    }
+    else
+    cout<< "Tu promedio es de:"<<endl <<d<<endl;
+    return 0;
 
